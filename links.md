@@ -1,7 +1,7 @@
 # Links Regarding Facial Feminization Surgery
 
 ## Surgeons Providing FFS
-*Note:* These are the surgeons providing FFS to my knowledge. If I've omitted someone, please feel free to contact me and I'll do my best to correct the omission.
+**Note:** These are the surgeons providing FFS to my knowledge. If I've omitted someone, please feel free to contact me and I'll do my best to correct the omission.
 
 * [Dr. Mark Zukowski, MD](http://www.mlzukowski.co.uk/) in Wilmette, Illinois (the Chicago area)
 * [Dr. Douglas Ousterhout, MD DDS](http://drofacialsurgery.com/) in San Francisco, California.
@@ -9,7 +9,7 @@
 * [Dr. Pierre Brassard, MD](https://www.grsmontreal.com/) in Montréal, Québec.
 
 ## Other People's Stories
-* ["Amber"](https://web.archive.org/web/20111122031815/http://www.amberspace.net:80/ffs.html) **Probably not her real name**, but Amber had jaw contouring with Dr. Toby Meltzer and tracheal shave with Dr. Ousterhout.
+* ["Amber"](https://web.archive.org/web/20111122031815/http://www.amberspace.net:80/ffs.html) *Probably not her real name*, but Amber had jaw contouring with Dr. Toby Meltzer and tracheal shave with Dr. Ousterhout.
 
 ### Dr. Ousterhout
 * [Dr. Becky Allison, MD](http://www.drbecky.com/pretty.html)
@@ -21,6 +21,7 @@
 * [Sally]()
 
 ## Miscellaneous FFS Resources
+* [FacialFeminizationSurgery.info](http://www.facialfeminizationsurgery.info/) - A website that has a description of the various procedures that are typically part of facial feminization surgery.
 * [FFS-Support](https://groups.yahoo.com/neo/groups/ffs-support/info) - A Yahoo Group that is for people having FFS. While mostly dead, it has thousands of messages spanning a decade, so you can find a lot of answers here.
 * [Jim Collins Foundation](http://jimcollinsfoundation.org/) - The Jim Collins Foundation is a non-profit that works to help transgender people get the surgeries we need to finish our transitions. This is a charity I wholeheartedly support and recommend that many people do.
 * [Virtual FFS](http://www.virtualffs.co.uk/index.html) - This is a service that Photoshops your image to show the potential effects of facial feminization surgery.
